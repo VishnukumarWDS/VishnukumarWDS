@@ -1,0 +1,33 @@
+PYTHON CODING FOR DATA SCIENCE
+
+Python
+  -> Python is a High-level ,general purpose programming language and it is highly used at Big Tech Companys like Google, Microsoft, Infosys,Apple,etc
+  -> Python is open source, interpreted, high level language and provides great approach for object-oriented programming. It is one of the best language used by data scientist for various data science project or application
+  -> Python is the best language that deal with mathematics, statistics and scientific function. It provides great libraries to deals with data science application.
+   
+   
+Data TYPES
+  -> Integer
+  -> Complex
+  -> Float
+  -> Boolean
+  -> List
+  -> Tuple
+  -> String
+  -> Dictionary
+  -> Set
+  
+Features of Python language:
+  -> Python has easy syntax even an beginner can understand
+  -> Python is open source.
+  -> Python is simple access program,which it makes easy to achieve program working
+  -> Python is easy to share, and large library and community support
+  -> Python its simple to test codes
+  -> Python is easy to extend the code which is even return in C and C++ language.
+  
+ Libray of Python:
+ 1.Numpy
+ 2.Pandas
+ 3.Matplotlib
+ 4.Seaborn
+ 5.Scikit-learn
